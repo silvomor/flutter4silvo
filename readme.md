@@ -1,11 +1,11 @@
 # Flutter Apps
 
 ---
-## Dicee ||| XyloPhone
-![bmi.gif](assets/magic-8.gif) ![dicee.gif](assets/dicee.gif)
+## Dicee ||| Magical-Ball
+![dicee.gif](assets/dicee.gif) ![bmi.gif](assets/magic-8.gif) 
 ---
 
-## BMI Calculator ||| Magical-Ball
+## BMI Calculator ||| XyloPhone
 ![bmi.gif](assets/bmi.gif)  ![xylo.gif](assets/xylo.gif) 
 ---
 
